@@ -10,4 +10,4 @@ FetchContent_Declare(
   https://github.com/snaaaaaaaake/projX.git
   )
 
-FetchContent_Available(projX)
+FetchContent_MakeAvailable(projX)
