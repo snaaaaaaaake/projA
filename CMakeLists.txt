@@ -7,6 +7,7 @@ include(FetchContent)
 
 FetchContent_Declare(
   projX
+  GIT_REPOSITORY
   https://github.com/snaaaaaaaake/projX.git
   )
 
