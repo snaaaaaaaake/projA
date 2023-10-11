@@ -7,7 +7,7 @@ include(FetchContent)
 
 FetchContent_Declare(
   projX
-  <>
+  https://github.com/snaaaaaaaake/projX.git
   )
 
 FetchContent_Available(projX)
